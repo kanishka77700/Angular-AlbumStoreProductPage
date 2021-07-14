@@ -1,50 +1,11 @@
 
-.album-name {
-
+p{
   font-size: 16px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: normal
-  }
-  .band-name{
-    font-size: 16px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: normal
+}
 
-  }
-  .album-release-date{
-    font-size: 16px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: normal
-
-  }
-  .track-number{
-    font-size: 16px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: normal
-
-  }
-
-  .track-name{
-    font-size: 16px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: normal
-
-  }
-
-  .track-time{
-    font-size: 16px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: normal
-  }
-  .price-and-buy
-  {
-
-    font-size: 16px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: normal
-  }
-
-.image
+img
 {
 width: 100%
 }
