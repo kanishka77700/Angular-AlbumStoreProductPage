@@ -1,10 +1,11 @@
 <ul>
 
-<li  *ngFor = 'let product of products'>
+  <li *ngFor='let product of products'>
+    <a routerLink='/product/{{product.id}}' routerLinkActive='active'>
+      {{product.albumName}}
 
-{{product.albumName}}
-
-</li>
+    </a>
+  </li>
 
 
 </ul>
